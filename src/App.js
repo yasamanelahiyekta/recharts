@@ -1,6 +1,5 @@
 import './App.css';
 import { Typography } from '@mui/material';
-import { Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Rectangle, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import Barchart from './Charts/BarChart/BarChart';
 import Linechart from './Charts/LineChart/Linechart';
 import Piechart from './Charts/PieChart/Piechart';
